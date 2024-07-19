@@ -1,0 +1,45 @@
+a {
+    text-decoration: none;
+}
+
+ul.contacts {
+    list-style-type:  none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.left-block {
+    border-right: 2px solid #d0d0d0;
+}
+
+.my-photo {
+    display: flex;
+    justify-content: center;
+}
+
+.center-block {
+    padding-left: 55px;
+}
+
+.center-block h2 {
+    text-decoration: underline;
+    padding: 0 0 10px 0;
+}
+
+.tech-skills {
+    list-style-type: "✔ ";
+}
+
+.contact-title,
+.tech-skills-title,
+.training-title,
+.professional-work-experience-title {
+    font-weight: 700;
+}
+
+
+.professional-work-experience-sub-title {
+    font-weight: 500;
+}
